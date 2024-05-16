@@ -1,4 +1,6 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
+//minimal baca README
+//©Arin Hanabi
 
 part of 'post_model.dart';
 
