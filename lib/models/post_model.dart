@@ -15,3 +15,5 @@ class PostModel {
       _$PostModelFromJson(json);
   Map<String, dynamic> toJson() => _$PostModelToJson(this);
 }
+
+//©Arin Hanabi
